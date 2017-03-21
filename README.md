@@ -1,11 +1,5 @@
 # Chappy Bot
 
-> Set up a node project with various tools installed.
+> Bot to setup things
 
-## Usage
-
-```bash
-git clone https://github.com/TylerGarlick/node-es7-boilerplate.git [name-of-project]
-```
-
-Change the remote origins in git to push your changes to your own repositories.
+[![Build Status](https://travis-ci.org/TylerGarlick/chappy-bot.svg?branch=master)](https://travis-ci.org/TylerGarlick/chappy-bot)
