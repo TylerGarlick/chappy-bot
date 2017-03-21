@@ -24,5 +24,15 @@
     "babel-preset-pundits": "^2.0.3",
     "babel-register": "^6.24.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  },
+  "now": {
+    "files": [
+      "dist",
+      "src",
+      "index.js"
+    ]
+  }
 }
