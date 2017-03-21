@@ -1,4 +1,4 @@
-# Node Boilerplate
+# Chappy Bot
 
 > Set up a node project with various tools installed.
 
